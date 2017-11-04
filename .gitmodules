@@ -1,0 +1,6 @@
+[submodule "nutts/apps"]
+	path = nutts/apps
+	url = https://bitbucket.org/nuttx/apps
+[submodule "nuttx/nuttx"]
+	path = nuttx/nuttx
+	url = https://bitbucket.org/nuttx/nuttx
